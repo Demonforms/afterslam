@@ -2,7 +2,6 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # Features:
 
-## By [Anas](https://github.com/anasty17)
 - qBittorrent
 - Select files from Torrent before downloading using qbittorrent
 - Leech (splitting, thumbnail for each user, setting as document or as media for each user)
@@ -23,7 +22,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 - Mirror/Leech/Watch/Clone/Count/Del by reply
 - YT-DLP quality buttons
 - Search for torrents with Torrent Search API or with variable plugins using qBittorrent search engine
-- Docker image support for `linux/amd64, linux/arm64, linux/arm/v7, linux/arm/v6` (**Note**: Use `anasty17/mltb-oracle:latest` for oracle or if u faced problem with arm64 docker run)
+- Docker image support for `linux/amd64, linux/arm64, linux/arm/v7, linux/arm/v6` 
 - Update bot at startup and with restart command using `UPSTREAM_REPO`
 - Clone/Zip/Unzip/Count from gdtot links (main script from [Yusuf](https://github.com/oxosec)) and delete first cloned file from main drive or TeamDrive
 - Magnet link extractor by [VarnaX-279](https://github.com/VarnaX-279)
@@ -57,10 +56,6 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 # How to deploy?
 
 ## Prerequisites
-
-- Tutorial Video from A to Z:
-  - Thanks to [Wiszky](https://github.com/vishnoe115)
-<p><a href="https://www.youtube.com/watch?v=gFQWJ4ftt48"> <img src="https://img.shields.io/badge/See%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
 
 ### 1. Installing requirements
 
